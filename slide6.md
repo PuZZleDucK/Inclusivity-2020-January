@@ -1,17 +1,31 @@
-
-# External MD slide
-
-## Heading
+# Priorities
 
 content
 
 Note:
-just a note
-another
+note
 
 
-## L2
-l2 content
+# Venue
+
+content
+
+Note:
+note
 
 
+# Outreach
+
+content
+
+Note:
+note
+
+
+# Risks
+
+content
+
+Note:
+note
 

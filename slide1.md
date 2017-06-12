@@ -1,17 +1,15 @@
+# FSM //2017
 
-# External MD slide
+## AMD Submission
 
-## Heading
+## Installfest discussion
 
-content
+## The Gnews on Security and Privacy
 
 Note:
-just a note
-another
+Welcome, space, coc
 
+Audio streaming
 
-## L2
-l2 content
-
-
+Day against drm volunteer for anti-DRM event
 

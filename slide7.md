@@ -1,17 +1,7 @@
-
-# External MD slide
-
-## Heading
+# Summary
 
 content
 
 Note:
-just a note
-another
-
-
-## L2
-l2 content
-
-
+a note
 

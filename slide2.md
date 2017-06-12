@@ -1,17 +1,15 @@
+## Overview
 
-# External MD slide
+- Skill Levels, Mentoring and Grouping(s)
+- Intros, Demos, Apps, Themes, Branding, Materials
+- OS, Hardware, Network
+- Priorities
+- Venue
+- Outreach
+- Risks
 
-## Heading
-
-content
 
 Note:
-just a note
-another
-
-
-## L2
-l2 content
-
-
+What are we going to cover tonight
+Why do this now... SFD
 
