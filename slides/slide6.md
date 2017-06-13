@@ -1,6 +1,6 @@
 # Priorities
 
-content
+new users vs problem solving vs free OS vs specific install
 
 Note:
 note
@@ -8,7 +8,7 @@ note
 
 # Venue
 
-content
+Central vs Homestyle vs Regional vs School / Uni
 
 Note:
 note
@@ -16,7 +16,8 @@ note
 
 # Outreach
 
-content
+pre promoting
+promoting at event
 
 Note:
 note
@@ -24,8 +25,7 @@ note
 
 # Risks
 
-content
+users PC / user data / misunderstandings / complexity / liability forms
 
 Note:
 note
-

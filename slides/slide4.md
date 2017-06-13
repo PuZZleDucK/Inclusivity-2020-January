@@ -1,6 +1,6 @@
-# Intros
+# Intros and Talks
 
-content
+what is OS / linux / VM / Booting / File Systems / ...
 
 Note:
 note
@@ -8,7 +8,7 @@ note
 
 # Demos
 
-content
+install / default applications / post-install applications
 
 Note:
 note
@@ -16,7 +16,7 @@ note
 
 # Apps
 
-content
+privacy / security / games / ...
 
 Note:
 note
@@ -24,7 +24,9 @@ note
 
 # Themes
 
-content
+general
+high level (security / games)
+low level (photo editing / hello world / ...)
 
 Note:
 note
@@ -32,7 +34,7 @@ note
 
 # Branding
 
-content
+FSM / FSF / FOSS / Issue based
 
 Note:
 note
@@ -40,8 +42,7 @@ note
 
 # Materials
 
-content
+flyers / CDs / VMs / PC / tutorials
 
 Note:
 note
-

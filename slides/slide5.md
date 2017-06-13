@@ -1,6 +1,6 @@
 # OS
 
-content
+Single OS vs Anything goes
 
 Note:
 note
@@ -8,7 +8,9 @@ note
 
 # Hardware
 
-content
+PC vs Raspberry Pi vs Routers vs Phone vs Recycled PCs
+Hardware vs Virtual
+BYO vs Provided vs NetBoot
 
 Note:
 note
@@ -16,8 +18,7 @@ note
 
 # Network
 
-content
+Wired / Wireless lan
 
 Note:
 note
-

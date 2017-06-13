@@ -1,6 +1,6 @@
 # Skill Levels
 
-content
+Experienced vs Novice vs All
 
 Note:
 note
@@ -8,7 +8,7 @@ note
 
 # Mentoring
 
-content
+ad-hoc vs tiered, volunteer vs prescribed
 
 Note:
 note
@@ -16,8 +16,7 @@ note
 
 # Grouping(s)
 
-content
+Individual vs Small groups vs Mob
 
 Note:
 note
-
