@@ -8,7 +8,6 @@
 - Outreach
 - Risks
 
-
 Note:
 What are we going to cover tonight
 Why do this now... SFD
