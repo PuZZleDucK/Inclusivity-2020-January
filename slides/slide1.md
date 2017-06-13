@@ -4,7 +4,11 @@
 
 ### AMD Submission
 
+<hr />
+
 ### Installfest discussion
+
+<hr />
 
 ### The Gnews on Security and Privacy
 
