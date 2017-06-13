@@ -5,18 +5,18 @@
     "js/reveal.js",
     "css/reveal.css"
   ],
-  "homepage": "http://lab.hakim.se/reveal-js/",
+  "homepage": "http://puzzleduck.org",
   "license": "MIT",
-  "description": "The HTML Presentation Framework",
+  "description": "The HTML Presentation on Hackathons",
   "authors": [
-    "Hakim El Hattab <hakim.elhattab@gmail.com>"
+    "PuZZleDucK <puzzleduck@gmail.com>"
   ],
   "dependencies": {
     "headjs": "~1.0.3"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/hakimel/reveal.js.git"
+    "url": "git://github.com/PuZZleDucK/FSM-Installfest.git"
   },
   "ignore": [
     "**/.*",

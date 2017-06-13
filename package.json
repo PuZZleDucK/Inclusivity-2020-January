@@ -1,8 +1,8 @@
 {
   "name": "reveal.js",
-  "version": "3.5.0",
-  "description": "The HTML Presentation Framework",
-  "homepage": "http://lab.hakim.se/reveal-js",
+  "version": "1.0.0",
+  "description": "The HTML Presentation About InstallFests",
+  "homepage": "http://puzzleduck.org",
   "subdomain": "revealjs",
   "main": "js/reveal.js",
   "scripts": {
@@ -11,9 +11,9 @@
     "build": "grunt"
   },
   "author": {
-    "name": "Hakim El Hattab",
-    "email": "hakim.elhattab@gmail.com",
-    "web": "http://hakim.se"
+    "name": "PuZZleDucK",
+    "email": "puzzleduck@gmail.com",
+    "web": "http://puzzleduck.org"
   },
   "repository": {
     "type": "git",
