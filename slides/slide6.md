@@ -2,7 +2,10 @@
 
 <hr />
 
-new users vs problem solving vs free OS vs specific install
+- New users
+- Problem solving
+- Free OS
+- Specific install
 
 Note:
 note
@@ -13,7 +16,11 @@ note
 
 <hr />
 
-Central vs Homestyle vs Regional vs School / Uni
+- Central
+- Homestyle
+- Regional
+- School or Uni
+- Business
 
 Note:
 note
@@ -24,8 +31,8 @@ note
 
 <hr />
 
-pre promoting
-promoting at event
+- Pre Promoting
+- Promoting at Event
 
 Note:
 note
@@ -36,7 +43,11 @@ note
 
 <hr />
 
-users PC / user data / misunderstandings / complexity / liability forms
+- Users PC
+- User data
+- Misunderstandings
+- Complexity
+- Liability Forms
 
 Note:
 note

@@ -2,7 +2,10 @@
 
 <hr />
 
-Experienced vs Novice vs All
+- Experienced
+- Novice / None
+- Domain specific (science/gov/...)
+- Any and All
 
 Note:
 note
@@ -13,7 +16,8 @@ note
 
 <hr />
 
-ad-hoc vs tiered, volunteer vs prescribed
+- Ad-hoc vs tiered
+- Volunteer vs prescribed
 
 Note:
 note
@@ -24,7 +28,9 @@ note
 
 <hr />
 
-Individual vs Small groups vs Mob
+- Individual
+- Small groups
+- Mob / All in
 
 Note:
 note

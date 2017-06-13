@@ -2,7 +2,12 @@
 
 <hr />
 
-what is OS / linux / VM / Booting / File Systems / ...
+- What is OS
+- Linux and GNU
+- VM
+- Booting
+- File Systems
+- ...
 
 Note:
 note
@@ -13,7 +18,9 @@ note
 
 <hr />
 
-install / default applications / post-install applications
+- Install
+- Default Applications
+- Post-Install Applications
 
 Note:
 note
@@ -24,7 +31,10 @@ note
 
 <hr />
 
-privacy / security / games / ...
+- Privacy
+- Security
+- Games
+- ...
 
 Note:
 note
@@ -35,9 +45,9 @@ note
 
 <hr />
 
-general
-high level (security / games)
-low level (photo editing / hello world / ...)
+- General
+- High level (security / games)
+- Low level (photo editing / hello world / ...)
 
 Note:
 note
@@ -48,7 +58,10 @@ note
 
 <hr />
 
-FSM / FSF / FOSS / Issue based
+- FSM
+- FSF
+- FOSS
+- Issue based
 
 Note:
 note
@@ -59,7 +72,11 @@ note
 
 <hr />
 
-flyers / CDs / VMs / PC / tutorials
+- Flyers
+- CDs
+- VMs
+- PC
+- Tutorials
 
 Note:
 note

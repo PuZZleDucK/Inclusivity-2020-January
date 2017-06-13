@@ -8,7 +8,9 @@
 <hr />
 
 ##### Software Freedom Day?
-- Thoughts, Comments, Volunteers
+- Thoughts?
+- Comments?
+- Volunteers?
 
 Note:
 a note
