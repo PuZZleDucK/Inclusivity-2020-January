@@ -8,4 +8,4 @@
 - [Wikipedia](https://en.wikipedia.org/wiki/Linux_user_group#Installfests)
 
 Note:
-a note
+some resources for your future consideration

@@ -4,6 +4,8 @@
 
 [Open Letter](http://freesoftware.org.au/wiki/AMDLetter)
 
+Post on FSM site
+
 ---
 
 ### Overview
@@ -28,4 +30,4 @@ Why do this now... SFD
 
 <hr />
 
-Any personal experiences running or participating in InstallFests
+Any experience running or participating in InstallFests?

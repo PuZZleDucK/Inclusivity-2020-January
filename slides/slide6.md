@@ -8,7 +8,11 @@
 - Specific install
 
 Note:
-note
+Publicizing our priorities help people set expectations.
+
+
+
+Will we be focusing on newbs, or people who bring a PC, or people who buy HW, or a specific OS?
 
 ---
 
@@ -23,7 +27,11 @@ note
 - Business
 
 Note:
-note
+EW would probably be ideal however other venues have advantages too
+
+Uni or Business would be good outreach
+
+Homestyle was also a cute concept I came across
 
 ---
 
@@ -35,7 +43,9 @@ note
 - Promoting at Event
 
 Note:
-note
+Would we want materials for before the event or at the event?
+
+What kinds of promotions materials would we prepare and share?
 
 ---
 
@@ -50,4 +60,12 @@ note
 - Liability Forms
 
 Note:
-note
+What happens if we hoze someones PC?
+
+What about data backups? Provide storage?
+
+Is there a possibility of misunderstandings? (dual booting)
+
+A problem may get too complex for us to solve
+
+Liability forms are advised

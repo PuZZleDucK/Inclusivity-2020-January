@@ -7,7 +7,9 @@
 - Anything goes
 
 Note:
-note
+Again being more general might be more difficult
+
+Do we want to focus on a single distro or family?
 
 ---
 
@@ -20,7 +22,15 @@ note
 - BYO vs Provided vs NetBoot
 
 Note:
-note
+Will people bring their own PCs? Could we offer monitors/mice/kb/net?
+
+Could we partner with a PC recycler?
+
+Could we have a cheap "buy you own device" with Pi's or Androids?
+
+Could we just use virtual machines?
+
+Could we even try going cloud style? (sponsorship)
 
 ---
 
@@ -33,7 +43,7 @@ note
 - DIY
 
 Note:
-note
+Will we provide a network? Just Wifi or wired too? or just BYO?
 
 ---
 
@@ -45,4 +55,6 @@ note
 - Setup Network and Hardware
 
 Note:
-note
+Do we have time and want to meetup befor for practice sessions?
+
+For the Secured Email Workshop we did this was invaluable.

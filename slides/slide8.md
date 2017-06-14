@@ -13,4 +13,6 @@
 - Volunteers?
 
 Note:
-a note
+Also LUV are having a Debian Launch Party on the 17th this Saturday so there might be an installfest happening there
+
+So would this be something we could consider for SFD?

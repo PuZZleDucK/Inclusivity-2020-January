@@ -15,10 +15,8 @@
 Note:
 Welcome to FSM for June
 
-EW space
+EW space & coc
 
-coc
-
-Audio streaming
+Audio recording posted to media goblin
 
 Day against drm volunteer for anti-DRM event
