@@ -1,107 +1,12 @@
-# reveal.js [![Build Status](https://travis-ci.org/hakimel/reveal.js.svg?branch=master)](https://travis-ci.org/hakimel/reveal.js) <a href="https://slides.com?ref=github"><img src="https://s3.amazonaws.com/static.slid.es/images/slides-github-banner-320x40.png?1" alt="Slides" width="160" height="20"></a>
+# Presentation on InstallFests using Reveal.js and HTML
 
-A framework for easily creating beautiful presentations using HTML. [Check out the live demo](http://lab.hakim.se/reveal-js/).
-
-reveal.js comes with a broad range of features including [nested slides](https://github.com/hakimel/reveal.js#markup), [Markdown contents](https://github.com/hakimel/reveal.js#markdown), [PDF export](https://github.com/hakimel/reveal.js#pdf-export), [speaker notes](https://github.com/hakimel/reveal.js#speaker-notes) and a [JavaScript API](https://github.com/hakimel/reveal.js#api). There's also a fully featured visual editor and platform for sharing reveal.js presentations at [slides.com](https://slides.com?ref=github).
-
-## Table of contents
-- [Online Editor](#online-editor)
-- [Instructions](#instructions)
-  - [Markup](#markup)
-  - [Markdown](#markdown)
-  - [Element Attributes](#element-attributes)
-  - [Slide Attributes](#slide-attributes)
-- [Configuration](#configuration)
-- [Presentation Size](#presentation-size)
-- [Dependencies](#dependencies)
-- [Ready Event](#ready-event)
-- [Auto-sliding](#auto-sliding)
-- [Keyboard Bindings](#keyboard-bindings)
-- [Touch Navigation](#touch-navigation)
-- [Lazy Loading](#lazy-loading)
-- [API](#api)
-  - [Slide Changed Event](#slide-changed-event)
-  - [Presentation State](#presentation-state)
-  - [Slide States](#slide-states)
-  - [Slide Backgrounds](#slide-backgrounds)
-  - [Parallax Background](#parallax-background)
-  - [Slide Transitions](#slide-transitions)
-  - [Internal links](#internal-links)
-  - [Fragments](#fragments)
-  - [Fragment events](#fragment-events)
-  - [Code syntax highlighting](#code-syntax-highlighting)
-  - [Slide number](#slide-number)
-  - [Overview mode](#overview-mode)
-  - [Fullscreen mode](#fullscreen-mode)
-  - [Embedded media](#embedded-media)
-  - [Stretching elements](#stretching-elements)
-  - [postMessage API](#postmessage-api)
-- [PDF Export](#pdf-export)
-- [Theming](#theming)
-- [Speaker Notes](#speaker-notes)
-  - [Share and Print Speaker Notes](#share-and-print-speaker-notes)
-  - [Server Side Speaker Notes](#server-side-speaker-notes)
-- [Multiplexing](#multiplexing)
-  - [Master presentation](#master-presentation)
-  - [Client presentation](#client-presentation)
-  - [Socket.io server](#socketio-server)
-- [MathJax](#mathjax)
-- [Installation](#installation)
-  - [Basic setup](#basic-setup)
-  - [Full setup](#full-setup)
-  - [Folder Structure](#folder-structure)
-- [License](#license)
-
-#### More reading
-- [Changelog](https://github.com/hakimel/reveal.js/releases): Up-to-date version history.
-- [Examples](https://github.com/hakimel/reveal.js/wiki/Example-Presentations): Presentations created with reveal.js, add your own!
-- [Browser Support](https://github.com/hakimel/reveal.js/wiki/Browser-Support): Explanation of browser support and fallbacks.
-- [Plugins](https://github.com/hakimel/reveal.js/wiki/Plugins,-Tools-and-Hardware): A list of plugins that can be used to extend reveal.js.
-
-## Online Editor
-
-Presentations are written using HTML or Markdown but there's also an online editor for those of you who prefer a graphical interface. Give it a try at [https://slides.com](https://slides.com?ref=github).
+### reveal.js features used
+- [nested slides](https://github.com/hakimel/reveal.js#markup)
+- [Markdown contents](https://github.com/hakimel/reveal.js#markdown)
+- [speaker notes](https://github.com/hakimel/reveal.js#speaker-notes)
 
 
-## Instructions
-
-### Markup
-
-Here's a barebones example of a fully working reveal.js presentation:
-```html
-<html>
-	<head>
-		<link rel="stylesheet" href="css/reveal.css">
-		<link rel="stylesheet" href="css/theme/white.css">
-	</head>
-	<body>
-		<div class="reveal">
-			<div class="slides">
-				<section>Slide 1</section>
-				<section>Slide 2</section>
-			</div>
-		</div>
-		<script src="js/reveal.js"></script>
-		<script>
-			Reveal.initialize();
-		</script>
-	</body>
-</html>
-```
-
-The presentation markup hierarchy needs to be `.reveal > .slides > section` where the `section` represents one slide and can be repeated indefinitely. If you place multiple `section` elements inside of another `section` they will be shown as vertical slides. The first of the vertical slides is the "root" of the others (at the top), and will be included in the horizontal sequence. For example:
-
-```html
-<div class="reveal">
-	<div class="slides">
-		<section>Single Horizontal Slide</section>
-		<section>
-			<section>Vertical Slide 1</section>
-			<section>Vertical Slide 2</section>
-		</section>
-	</div>
-</div>
-```
+# Reveal JS Notes
 
 ### Markdown
 
