@@ -22,7 +22,7 @@ Post on FSM site
 
 Note:
 What are we going to cover tonight
-Why do this now... SFD
+Why do this now... for SFD?
 
 ---
 
@@ -31,3 +31,7 @@ Why do this now... SFD
 <hr />
 
 Any experience running or participating in InstallFests?
+
+Note:
+Experience?
+Even Rails Install fests or Pi days?
