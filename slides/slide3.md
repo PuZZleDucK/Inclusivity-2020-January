@@ -22,8 +22,8 @@ The more targeted we are the more we can prepare
 
 <hr />
 
-- Ad-hoc vs tiered
-- Volunteer vs prescribed
+- Volunteer or prescribed
+- Ad-hoc or tiered
 
 Note:
 Mentoring

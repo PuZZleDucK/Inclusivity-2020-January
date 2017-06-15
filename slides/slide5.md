@@ -1,4 +1,4 @@
-# OS
+# Operating Systems
 
 <hr />
 
@@ -7,7 +7,7 @@
 - Anything goes
 
 Note:
-OS
+Operating Systems
 
 Again being more general might be more difficult
 
@@ -19,9 +19,11 @@ Do we want to focus on a single distro or family?
 
 <hr />
 
-- PC vs Raspberry Pi vs Routers vs Phone vs Recycled PCs
-- Hardware vs Virtual (Local vs AWS/DO/...) vs Linux Subsystem
-- BYO vs Provided vs NetBoot
+- BYO: PC, Routers, Phone
+- Buy/Provided: Raspberry Pi, Phone, Recycled PCs
+- Hardware and/or Virtual (Local or AWS/DO/...)
+- Linux Subsystem
+- NetBoot
 
 Note:
 Hardware
@@ -63,6 +65,7 @@ Big distros could take a long time to download if we want anything goes
 <hr />
 
 - Practice InstallFest/Talks/Demos Day
+- Prepare venue
 - Setup Network and Hardware
 
 Note:

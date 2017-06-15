@@ -12,8 +12,6 @@ Priorities
 
 Publicizing our priorities help people set expectations.
 
-
-
 Will we be focusing on newbs, or people who bring a PC, or people who buy HW, or a specific OS?
 
 ---
