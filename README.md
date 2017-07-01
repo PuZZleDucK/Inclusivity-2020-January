@@ -1,4 +1,5 @@
 # Presentation on InstallFests using Reveal.js and HTML
+- Avaliable online with [gh-pages](https://puzzleduck.github.io/FSM-Installfest/)
 
 ### reveal.js features used
 - [nested slides](https://github.com/hakimel/reveal.js#markup)
