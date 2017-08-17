@@ -9,7 +9,7 @@
 
 Presentation slides and Gnews for Free Software Melbourne on the 17th of August 2017
 
-Avaliable online with [gh-pages]()
+Avaliable online with [gh-pages](https://free-software-melbourne.github.io/Gnews-2017-August/)
 
 
 # reveal.js features used
