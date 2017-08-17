@@ -1,22 +1,27 @@
-## Free Software Melbourne
-### June 2017
-<img src=slides/img/FSM_logo.png width="40%">
 
-### AMD Submission
+# Free Software Melbourne
+## 17th August 2017
+<img src=slides/img/FSM_logo.png width="30%">
 
-<hr />
-
-### Installfest discussion
+## Local FOSS Groups
 
 <hr />
 
-### The Gnews on Security and Privacy
+## FSM Games Night
+
+<hr />
+
+### and the usual Gnews
+
+<img src=slides/img/EW.png height="80px">
+<img src=slides/img/AdamBolte.png height="80px">
+<img src=slides/img/stumbles_small.jpg height="80px">
 
 Note:
-Welcome to FSM for June
+Welcome for 17th August
 
-EW space & coc
+EW space
 
-Audio recording posted to media goblin
+coc
 
-Day against drm volunteer for anti-DRM event
+Tonight we'll be talking about the local FOSS scene, chewing over the gnews of the month and maybe even getting around to some games

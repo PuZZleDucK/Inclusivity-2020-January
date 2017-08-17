@@ -1,37 +1,43 @@
-### AMD Submission
-
+# Local FOSS Groups
 <hr />
 
-[Open Letter](http://freesoftware.org.au/wiki/AMDLetter)
-
-Post on FSM site
-
----
-
-### Overview
-
-<hr />
-
-- Skill Levels, Mentoring and Grouping(s)
-- Intros, Demos, Apps, Themes, Branding, Materials
-- OS, Hardware, Network
-- Priorities
-- Venue
-- Outreach
-- Risks
-
+## Diverse Communities
+- Free Software
+- Linux
+- Open Source
+- Open Data
 Note:
-What are we going to cover tonight
-Why do this now... for SFD?
+notes
 
----
 
-### Experience
-
-<hr />
-
-Any experience running or participating in InstallFests?
-
+# Free Software
+- 4 Freedoms
+- Free Software Melbourne
+- Sydney/Brisbane/Tasmania
+- Working Groups and Submissions
+- Software Freedom Day
 Note:
-Experience?
-Even Rails Install fests or Pi days?
+notes
+
+
+# Linux
+- Linux Users Victoria
+- Linux Australia
+- Linux Conf Au
+Note:
+notes
+
+
+# Open Source
+- Open Source Industry Australia
+- Red Hat / Suse / ...
+Note:
+notes
+
+
+# Open Data
+- Open Knowledge
+- Open Australia Foundation
+Note:
+notes
+
