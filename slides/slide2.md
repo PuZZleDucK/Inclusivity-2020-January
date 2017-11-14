@@ -1,43 +1,27 @@
-# Local FOSS Groups
+# The Gnews
 <hr />
 
-## Diverse Communities
-- Free Software
-- Linux
-- Open Source
-- Open Data
+## Things to do
+
+### Story 1
+- x1
+- y1
 Note:
 notes
 
 
-# Free Software
-- 4 Freedoms
-- Free Software Melbourne
-- Sydney/Brisbane/Tasmania
-- Working Groups and Submissions
-- Software Freedom Day
+### Story 2
+- x2
+- y2
 Note:
 notes
 
+---
 
-# Linux
-- Linux Users Victoria
-- Linux Australia
-- Linux Conf Au
-Note:
-notes
+## Free Culture
 
+## Licensing & Open Standards
 
-# Open Source
-- Open Source Industry Australia
-- Red Hat / Suse / ...
-Note:
-notes
+## Releases and Distro News
 
-
-# Open Data
-- Open Knowledge
-- Open Australia Foundation
-Note:
-notes
-
+## The Good, The Bad and The Ugly
