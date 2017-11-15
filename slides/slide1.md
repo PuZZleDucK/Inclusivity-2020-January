@@ -1,4 +1,3 @@
-
 # Free Software Melbourne
 ## 16th November 2017
 <img src=slides/img/FSM_logo.png width="30%">
