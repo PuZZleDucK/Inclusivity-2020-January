@@ -38,7 +38,8 @@ notes
 ## FSM Signing
 <hr />
 ### Open letter for Publicly funded software
-- A reading?
+- Here's one I've prepared earlier...
+- https://publiccode.eu//openletter/
 Note:
 notes
 
