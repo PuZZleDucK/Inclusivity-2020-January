@@ -24,3 +24,28 @@ EW space
 coc
 
 Tonight we'll be talking about our favourite FOSS of the year and pondering the gnews of the month and discussing the future of Open Source in Melbourne (the mini documentary)
+
+
+## FLOSS - The Documentary
+<hr />
+### Margaret Gordon recording an OS mini-documentary in December
+- Details and exact date to be confirmed
+- Looking like Thursday the 21st
+Note:
+notes
+
+
+## FSM Signing
+<hr />
+### Open letter for Publicly funded software
+- A reading?
+Note:
+notes
+
+
+## FLOSS in schools redux
+<hr />
+### Letter by Leon Kinsella
+- A reading?
+Note:
+notes
