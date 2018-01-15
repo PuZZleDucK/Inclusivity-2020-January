@@ -3,13 +3,13 @@
 
 
 # Presentation and Gnews
-""
-Presentation slides and Gnews for Free Software Melbourne on the 16th of November 2017
+
+Presentation slides and Gnews for Free Software Melbourne on the 18th of January 2018
 
 
 # To View
 
-[gh-pages](https://free-software-melbourne.github.io/Gnews-2017-November/)
+[gh-pages](https://free-software-melbourne.github.io/Gnews-2018-January/)
 
 
 # To Run
