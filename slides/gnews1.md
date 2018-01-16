@@ -1,11 +1,12 @@
 ## Gnews -  Things To Do
 <hr />
+<span class="fragment fade-in" data-fragment-index="2">
 ### Hackathon
 - highlight
 - link
+</span>
 Note:
 notes
-
 
 
 

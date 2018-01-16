@@ -1,12 +1,10 @@
 # Free Software Melbourne
-## 18th of January 2018
+#### 18th of January 2018
 <img src=slides/img/FSM_logo.png width="30%">
 
-## F-Droid - Free Your Phone
+## F-Droid - Free Your Phone (at least a little bit)
 
-<hr />
-
-## and all the usual Gnews
+### and all the usual Gnews
 
 <hr />
 
