@@ -52,9 +52,9 @@ F-Droid warns of behaviour that may be undesirable
 
 - <span class="fragment highlight-red">More than 2,300 apps compared to over 1.43 million on other app stores we won't mention</span>
 - <span class="fragment highlight-red">Researcher and developer Moxie Marlinspike criticised F-Droid for out-of-date versions</span>
+- <span class="fragment highlight-green">The client does not show the number of installs/downloads for each app</span>
 - <span class="fragment highlight-green">No formal app review process*</span>
 - <span class="fragment highlight-green">Uses its own keys to sign packages, so apps from another source must be reinstalled</span>
-- <span class="fragment highlight-green">The client show the number of installs/downloads for each app</span>
 
 ---
 
@@ -103,7 +103,7 @@ Eutopia (Signal builds)
 
 I2P (anonymous network)
 
-<span class="fragment highlight-current-blue">IzzyOnDroid (official binaries built by the original application developers)</span>
+<span class="fragment highlight-current-blue">IzzyOnDroid (350+ official binaries built by the original application developers)</span>
 
 <span class="fragment highlight-current-blue">PiLight (Free Hardware/Software home automation)</span>
 

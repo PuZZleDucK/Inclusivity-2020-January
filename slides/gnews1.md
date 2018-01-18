@@ -73,10 +73,10 @@ notes
 
 ## Gnews -  The Free Web
 <hr />
-### Concerns about Accelerated Mobile Pages
-- Web pages could be slow at times, but the solutions out there to address them are creating problems of their own
-- Google has chosen to create a premium position at the top of their search results (for articles) and a "lightning" icon ... only accessible to publishers that use a Google-controlled technology
-  - Open Letter: http://ampletter.org/
+### Violating a Website's Terms of Service Is Not a Crime
+- Federal court of appeals heeded EFF's advice and rejected an attempt by Oracle to hold a company criminally liable for accessing Oracle's website in a manner it didn't like
+  - EFF: https://www.eff.org/document/oracle-v-rimini-eff-amicus-brief
+  - Result: https://www.eff.org/document/oracle-v-rimini-ninth-circuit-opinion
 Note:
 notes
 
@@ -84,10 +84,10 @@ notes
 
 ## Gnews -  The Free Web
 <hr />
-### Violating a Website's Terms of Service Is Not a Crime
-- Federal court of appeals heeded EFF's advice and rejected an attempt by Oracle to hold a company criminally liable for accessing Oracle's website in a manner it didn't like
-  - EFF: https://www.eff.org/document/oracle-v-rimini-eff-amicus-brief
-  - Result: https://www.eff.org/document/oracle-v-rimini-ninth-circuit-opinion
+### Concerns about Accelerated Mobile Pages
+- Web pages could be slow at times, but the solutions out there to address them are creating problems of their own
+- Google has chosen to create a premium position at the top of their search results (for articles) and a "lightning" icon ... only accessible to publishers that use a Google-controlled technology
+  - Open Letter: http://ampletter.org/
 Note:
 notes
 
@@ -107,9 +107,12 @@ notes
 
 ## Gnews -  Linux
 <hr />
-### The Linux Kernel Mailing List is Down
-- Not wanting to let you wait for a spare part to arrive, I'm currently (while being assisted by our cat Flits) busy copying over all data to a VPS
-  - https://lkml.org/
+### Can You Install Linux On a 1993 PC?
+- Installing Gentoo Linux on an "ancient" IBM PS/1 Consultant 2133 19C (released in 1993)
+- A half-hour video shows that it takes almost 11 minutes just to boot up -- and five and a half minutes to shut down.
+- "I was impressed by the level of support Linux has for ancient hardware like this."
+  - http://yeokhengmeng.com/2018/01/make-the-486-great-again/
+  - Video: https://www.youtube.com/watch?v=4qSziR6sD8Q
 Note:
 notes
 
@@ -117,12 +120,9 @@ notes
 
 ## Gnews -  Linux
 <hr />
-### Can You Install Linux On a 1993 PC?
-- Installing Gentoo Linux on an "ancient" IBM PS/1 Consultant 2133 19C (released in 1993)
-- A half-hour video shows that it takes almost 11 minutes just to boot up -- and five and a half minutes to shut down.
-- "I was impressed by the level of support Linux has for ancient hardware like this."
-  - http://yeokhengmeng.com/2018/01/make-the-486-great-again/
-  - Video: https://www.youtube.com/watch?v=4qSziR6sD8Q
+### The Linux Kernel Mailing List is Down
+- Not wanting to let you wait for a spare part to arrive, I'm currently (while being assisted by our cat Flits) busy copying over all data to a VPS
+  - https://lkml.org/
 Note:
 notes
 
@@ -196,9 +196,12 @@ notes
 ## Gnews - The Good, The Bad and The Ugly
 <hr />
 ### Meltdown and Spectre
-- impetus for making long-overdue changes to the core DNA of the semiconductor industry and how chip architectures are designed
+##### Long-overdue changes
+- Impetus for making long-overdue changes to the core DNA of the semiconductor industry and how chip architectures are designed
   - http://www.zdnet.com/article/why-intel-x86-must-die-our-cloud-centric-future-depends-on-open-source-chips-meltdown/
-- Modern processors go to great lengths to preserve the abstraction that they are in-order scalar machines
+
+##### Raspberry Pi is immune
+- Modern processors preserve the abstraction that they are in-order scalar machines
 - Examples of what happens when we reason about security in the context of that abstraction, and then encounter minor discrepancies between the abstraction and reality
-- The lack of speculation in the ARM1176, Cortex-A7, and Cortex-A53 cores used in Raspberry Pi render us immune to attacks of the sort
+- The lack of speculation in the ARM1176, Cortex-A7, and Cortex-A53 cores used in Raspberry Pi render us immune to attacks of this sort
   - https://www.raspberrypi.org/blog/why-raspberry-pi-isnt-vulnerable-to-spectre-or-meltdown/
