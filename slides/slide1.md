@@ -1,8 +1,8 @@
 # Free Software Melbourne
-#### 18th of January 2018
+#### 15th of February 2018
 <img src=slides/img/FSM_logo.png width="30%">
 
-## F-Droid - Free Your Phone (at least a little bit)
+## Deconstructing PDFs with CfA
 
 ### and all the usual Gnews
 
