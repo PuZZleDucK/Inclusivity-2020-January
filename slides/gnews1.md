@@ -1,7 +1,7 @@
 
 ## Gnews -  Things To Do
 <hr />
-### Major Websites Are Planning a 'Day of Action' To Block Repeal of Net Neutrality
+### 'Day of Action' To Block Repeal of Net Neutrality (Feb 27)
 - Focused on finding the final vote needed to pass the Congressional Review Act (CRA)
 - "50 Senators have already come out in support of the CRA, which would completely overturn the FCC's December 14 decision and restore net neutrality protections
 - Several Senators have indicated that they are considering becoming the 51st vote we need to win
@@ -29,7 +29,7 @@ notes
 ## Gnews -  Free and Open Culture
 <hr />
 ### 'How I Coined the Term Open Source'
-- There are a number of accounts of the coining of the term, for example by Eric Raymond and Richard Stallman, yet this is mine (Christine Peterson - Foresight Institute), written on January 2, 2006. It has never been published, until today. The introduction of the term "open source software" was a deliberate effort to make this field of endeavor more understandable to newcomers and to business, which was viewed as necessary to its spread to a broader community of users
+- There are a number of accounts of the coining of the term... this is mine (Christine Peterson - Foresight Institute)
 - Those new to the term "free software" assume it is referring to the price. Oldtimers must then launch into an explanation...
 - While not ideal, it struck me as good enough. I ran it by at least four others: Eric Drexler, Mark Miller, and Todd Anderson liked it, while a friend in marketing and public relations felt the term "open" had been overused and abused and believed we could do better
 - Maddog mentioned "freely distributable" as an earlier term, and "cooperatively developed" as a newer term. Eric listed "free software," "open source," and "sourceware"
@@ -65,12 +65,10 @@ notes
 
 ## Gnews -  Free and Open Culture
 <hr />
-### Former Google/Facebook/Mozilla Employees Will Fight Addictive Technologies
-- Challenge the technological Frankenstein they've collectively created
-- The Center for Humane Technology is a group comprising former employees and pals of Google, Facebook, and Mozilla
+### Former Tech Employees Will Fight Addictive Technologies
+- The Center for Humane Technology is a group comprising former employees and pals of Google, Facebook, and Mozilla formed to challenge the technological Frankenstein they've collectively created
 - Raise awareness about the societal tolls of technology, which its members believe are inherently addictive
 - Will lobby for a bill to research the effects of technology on children's health
-- Plans an anti-tech addiction ad campaign
 - Tech companies "profit by drilling into our brains to pull the attention out of it, by using persuasion techniques to keep [us] hooked."
 - Article: https://qz.com/1197876/more-facebook-and-google-employees-are-joining-the-backlash-against-technology/
 - Article: https://www.cnbc.com/2018/02/04/early-facebook-and-google-employees-form-coalition-to-fight-what-they-built.html
@@ -85,11 +83,24 @@ notes
 ### DuckDuckGo CEO: 'Google and Facebook Are Watching Our Every Move Online. It's Time To Make Them Stop'
 - What you may not realize, though, is 76 percent of websites now contain hidden Google trackers, and 24 percent have hidden Facebook trackers
 - Congress and federal agencies need to take a fresh look at what can be done to curb these data monopolies. They first need to demand more algorithmic and privacy policy transparency, so people can truly understand the extent
-- Only then can informed consent be possible
 - Need to legislate that people own their own data, enabling real opt-outs
 - Restrict how data can be combined including being more aggressive at blocking acquisitions that further consolidate data
-- link: https://www.cnbc.com/2018/01/31/google-facebook-data-privacy-concerns-out-of-control-commentary.html
-- link: https://webtap.princeton.edu/
+- Only then can informed consent be possible
+- Article: https://www.cnbc.com/2018/01/31/google-facebook-data-privacy-concerns-out-of-control-commentary.html
+- Project: https://webtap.princeton.edu/
+Note:
+notes
+
+---
+
+## Gnews -  Free and Open Culture
+<hr />
+### DuckDuckGo App and Extension Upgrades Offer Privacy 'Beyond the Search Box'
+- Grade ratings for websites, factoring in their use of encryption and ad tracking networks, and offering summaries of their terms of service
+- Block ad tracking networks
+- It's hard to use the Internet without it feeling a bit creepy
+- Article: https://www.theverge.com/2018/1/23/16922508/private-search-engine-duckduckgo-browser-extension-app
+- Site: https://spreadprivacy.com/privacy-simplified/
 Note:
 notes
 
@@ -121,19 +132,6 @@ notes
 
 ===
 
-## Gnews -  The Free Web
-<hr />
-### DuckDuckGo App and Extension Upgrades Offer Privacy 'Beyond the Search Box'
-- Grade ratings for websites, factoring in their use of encryption and ad tracking networks, and offering summaries of their terms of service
-- Block ad tracking networks
-- It's hard to use the Internet without it feeling a bit creepy
-- Article: https://www.theverge.com/2018/1/23/16922508/private-search-engine-duckduckgo-browser-extension-app
-- Site: https://spreadprivacy.com/privacy-simplified/
-Note:
-notes
-
-===
-
 ## Gnews -  Privacy and Security
 <hr />
 ### Yale Privacy Lab has collaborated with Exodus Privacy to detect and expose trackers with the help of the F-Droid app store
@@ -149,11 +147,10 @@ notes
 ## Gnews -  Privacy and Security
 <hr />
 ### EFF: Thousands of People Have Secure Messaging Clients Infected By Dark Caracal
-- Hundreds of gigabytes of data has been stolen, primarily through mobile devices compromised by fake secure messaging clients
+- Probably a nation-state actor, EFF and Lookout trace Dark Caracal to a building belonging to the Lebanese General Security Directorate in Beirut
 - Trojanized apps, including Signal and WhatsApp, function like the legitimate apps and send and receive messages normally
-- EFF and Lookout trace Dark Caracal to a building belonging to the Lebanese General Security Directorate in Beirut
-- People in the U.S., Canada, Germany, Lebanon, and France have been hit by Dark Caracal
-- Installed through carefully-targeted spearphishing attacks, accoridng to the EFF. "Several types of phishing emails directed people to go to a fake app store-like page, where fake Android apps waited
+- Hundreds of gigabytes of data has been stolen, primarily through mobile devices compromised by fake secure messaging clients from people in the U.S., Canada, Germany, Lebanon, and France have been hit by Dark Caracal
+- Installed through carefully-targeted spearphishing attacks, directed people to go to a fake app store-like page, where fake Android apps waited
 - Dark Caracal used physical access to people's phones to install the fake apps
 - Article: https://www.eff.org/press/releases/eff-and-lookout-uncover-new-malware-espionage-campaign-infecting-thousands-around
 Note:
@@ -166,7 +163,7 @@ notes
 <hr />
 ### Linux 4.15
 - RISC-V architecture support, AMDGPU Display Code support, Intel Coffee Lake graphics support, and many other improvements
-- Blames Intel For Delay
+- Linus blames Intel For Delay
 - The extra two weeks were obviously mainly due to that whole timing issue... [T]he news cycle notwithstanding, the bulk of the 4.15 work is all the regular plodding 'boring' stuff
 - Announce: http://lkml.iu.edu/hypermail/linux/kernel/1801.3/02794.html
 Note:
@@ -256,7 +253,8 @@ notes
 <hr />
 ### Firefox 58 Gets Graphics Speed Boost, Web App Abilities
 - Firefox 58 does better than its predecessor in some graphics tasks by splitting work better across the multiple processor cores
-- Firefox 58 can get WebAssembly software running faster so you don't have to twiddle your thumbs waiting as long after clicking a link. Another is progressive web apps (PWAs), an initiative that came out of Google to help make the web a better match for the apps we all drop on our phones
+- Firefox 58 can get WebAssembly software running faster so you don't have to twiddle your thumbs waiting as long after clicking a link
+- Progressive web apps (PWAs), an initiative that came out of Google to help make the web a better match for the apps we all drop on our phones
 - Article: https://www.cnet.com/news/mozilla-firefox-58-quantum-kicks-graphics-speed-up-a-notch-and-blocks-ad-trackers/
 Note:
 notes
@@ -270,6 +268,8 @@ notes
 - Adds support for 360-degree video and 3D audio, readying features for a VR version of VLC slated to roll out in mid-April
 - Hardware decoding across all platforms
 - Article: https://www.pcworld.com/article/3254193/software/vlc-3-0-release-chromecast-360-degree-video.html
+- Margaret Gordon Video: https://www.youtube.com/watch?v=jWx1P93nS0c
+- Wikipedia Video: https://www.youtube.com/watch?v=jKRoCjnJQzQ
 Note:
 notes
 
@@ -293,17 +293,9 @@ notes
 - Just a suggestion for the moment, so don't get excited/angry
 - Ubuntu MATE 17.10, the first distro to ship with a preinstalled Snap app
 - Article: http://www.omgubuntu.co.uk/2018/02/ubuntu-18-04-include-snap-apps-default
-Note:
-notes
-
----
-
-## Gnews -  Releases & Distro News
-<hr />
-### Slack Now Available As a Snap For Linux
-- Linux Mint, Manjaro, Debian, Fedora, OpenSUSE, Solus, and Ubuntu
-- Also: Microsoft Releases Skype As a Snap For Linux
+- Slack Now Available As a Snap For Linux Mint, Manjaro, Debian, Fedora, OpenSUSE, Solus, and Ubuntu
 - Article: https://betanews.com/2018/01/18/slack-snap-linux/
+- Also: Microsoft Releases Skype As a Snap For Linux
 - Article: https://betanews.com/2018/02/01/microsoft-linux-skype-snap/
 Note:
 notes
@@ -318,6 +310,7 @@ notes
 - AES encryption support on macOS, Progman DDE support, and a task scheduler
 - Article: http://news.softpedia.com/news/wine-3-0-officially-released-with-android-driver-direct3d-11-and-10-support-519451.shtml
 - Announce: https://www.winehq.org/news/2018011801
+- Wine on Android: https://thenextweb.com/apps/2018/01/23/wine-emulator-arrives-on-android-to-let-you-run-windows-apps-on-your-phone/
 Note:
 notes
 
@@ -339,8 +332,6 @@ notes
 ### The Good
 - Montana Becomes First State To Implement Net Neutrality
 - link: http://thehill.com/policy/technology/370133-montana-becomes-first-state-to-implement-net-neutrality-rules-following-fcc
-- Montana To FCC: You Can't Stop Us From Protecting Net Neutrality
-- link: https://arstechnica.com/tech-policy/2018/01/montana-to-fcc-you-cant-stop-us-from-protecting-net-neutrality/
 - New York Governor Signs Executive Order To Keep Net Neutrality
 - link: https://www.theverge.com/2018/1/24/16928494/new-york-governor-net-neutrality-cuomo-executive-order
 - New Jersey Governor Signs Net Neutrality Order
