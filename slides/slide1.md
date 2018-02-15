@@ -1,10 +1,13 @@
 # Free Software Melbourne
 #### 15th of February 2018
-<img src=slides/img/FSM_logo.png width="30%">
+<img src=slides/img/FSM_logo.png width="20%">
 
-## Deconstructing PDFs with CfA
 
-### and all the usual Gnews
+## Tatiana Lenz:
+
+### Rendering PDFs into text (Code for Victoria II)
+
+##### and our usual Gnews
 
 <hr />
 
