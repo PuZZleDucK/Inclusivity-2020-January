@@ -1,13 +1,11 @@
 # Free Software Melbourne
-#### 15th of February 2018
+#### 21st of February 2019
 <img src=slides/img/FSM_logo.png width="20%">
 
 
-## Tatiana Lenz:
+## Mastodon
 
-### Rendering PDFs into text (Code for Victoria II)
-
-##### and our usual Gnews
+### and a little Gnews
 
 <hr />
 
@@ -18,6 +16,6 @@
 <img src=slides/img/stumbles_small.jpg height="80px">
 
 Note:
+Sponsors
 EW space
-
 coc
