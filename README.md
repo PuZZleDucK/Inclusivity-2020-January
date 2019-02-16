@@ -21,3 +21,19 @@ Presentation slides and Gnews for Free Software Melbourne for February 2019
 - [nested slides](https://github.com/hakimel/reveal.js#markup)
 - [Markdown contents](https://github.com/hakimel/reveal.js#markdown)
 - [speaker notes](https://github.com/hakimel/reveal.js#speaker-notes)
+
+
+# Refs:
+
+- https://joinmastodon.org/
+- https://blog.joinmastodon.org/2018/07/cage-the-mastodon/
+- https://www.lifehacker.com.au/2018/08/a-beginners-guide-to-mastodonemem/
+- https://bridge.joinmastodon.org/
+- https://hackernoon.com/mastodon-is-dead-in-the-water-888c10e8abb1
+- https://twitter.com/mastodonproject?lang=en
+- https://slate.com/technology/2018/08/mastodon-what-you-need-to-know-about-the-new-social-network-competing-with-twitter.html
+- https://ericlbarnes.com/2018/09/07/mastodon-first-thoughts/
+- https://en.wikipedia.org/wiki/Mastodon_(software)
+https://instances.social/list#lang=en&allowed=&prohibited=nudity_nocw,nudity_all,pornography_nocw,pornography_all,illegalContentLinks,spam&users=
+
+
