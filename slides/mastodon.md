@@ -2,10 +2,9 @@
 ## What is Mastodon?
 <hr />
 
-- Created by Eugen Rochko [Patreon](https://www.patreon.com/user?u=619786)
-- "Like Twitter" ... but with Toots and Boosts
-- "Like Diaspora*"
-- "Federated micro blogging and social networking"
+- Created by Eugen Rochko - [Patreon](https://www.patreon.com/user?u=619786)
+- Like Diaspora*/Twitter/PumpIO ... but with Toots and Boosts
+- Federated micro blogging and social networking
 - Many communities and servers cooperating
 
 Note:
@@ -33,9 +32,15 @@ Moderation: ratio of “everyone” to “people who can handle abuse reports”
 <hr />
 
 - @you and @you@there.io
-- Filter by interest group, language, size and/or location
+- Filter by interest group, language, size, moderation and/or location
   - https://joinmastodon.org/
   - https://instances.social
+
+---
+
+## Reporting / Moderation
+<hr />
+
 - Moderation Rules
   - Restrictions on nudity, pornography, illegal content, spam and advertising
 - Reporting
@@ -68,33 +73,29 @@ Design: Mastodon deliberately does not support arbitrary search... use hashtags 
 ## Drawbacks
 <hr />
 
-- None?
-- Setup a server
-- Other peoples computers
-- Moderation
+- Setup a server or use Other Peoples Computers
+- Moderation can cut both ways
 - Replies from blocked servers are visible only if you are following the user
-- Multiple Personalities across federation
+- Multiple Personalities across the federation
 
 ---
 
 ## Clients?
 <hr />
 
-- Desktop
-  - Classic Web - local and federated timelines
-  - Halcyon (AGPL) - make it look like twitter
-    - https://halcyon.cybre.space/login
-  - Pinafore (AGPL) - multi instance
-    - https://pinafore.social/
+Desktop
+- Halcyon (AGPL) - make it look like twitter
+  - https://halcyon.cybre.space/login
+- Pinafore (AGPL) - multi instance
+  - https://pinafore.social/
 
-- Mobile
-  - FDroid
-    -
-  - Play
-    - [Tusky](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky) (GPLv3)
-    - [AndStatus](https://play.google.com/store/apps/details?id=org.andstatus.app) (Apache)
-    - [Twidere](https://play.google.com/store/apps/details?id=org.mariotaku.twidere) (GPLv3)
-  - GDroid
+Mobile
+- FDroid
+  -
+- Play
+  - [Tusky](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky) (GPLv3)
+  - [AndStatus](https://play.google.com/store/apps/details?id=org.andstatus.app) (Apache)
+  - [Twidere](https://play.google.com/store/apps/details?id=org.mariotaku.twidere) (GPLv3)
 
 Note:
 federated timeline: local timeline, plus everybody who is followed by someone on your instance
@@ -104,16 +105,8 @@ federated timeline: local timeline, plus everybody who is followed by someone on
 <hr />
 
 - Lets do it for FreeSoftwareMelb! ...
-- link
-- tag
-
----
-
-## What to do there?
-<hr />
-
-FSM Announcements
-
-Assistance and Access Bill campaign
-<br />
+- https://instances.social
+- What to do:
+  - FSM Announcements
+  - Assistance and Access Bill
 
