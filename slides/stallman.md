@@ -66,7 +66,6 @@ Note:
   - Jami ?
   - Jitst ?
 
-
 ---
 
 ## FSM Meetups Next Year
