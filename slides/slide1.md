@@ -1,5 +1,5 @@
 # Free Software Melbourne
-#### 21st of February 2019
+#### 17th of October 2019
 <img src=slides/img/FSM_logo.png width="20%">
 
 ## The Future of Free Software
