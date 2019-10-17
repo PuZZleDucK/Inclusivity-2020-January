@@ -2,9 +2,9 @@
 #### 21st of February 2019
 <img src=slides/img/FSM_logo.png width="20%">
 
-## All about Mastodon
+## The Future of Free Software
 
-### and a little Gnews
+### and Free Software  Melbourne
 
 <hr />
 
