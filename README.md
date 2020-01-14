@@ -23,18 +23,13 @@ Presentation slides for Free Software Melbourne January 2019 meetup
 - [speaker notes](https://github.com/hakimel/reveal.js#speaker-notes)
 
 
-# Refs:
+## Resources
 
-- https://bridge.joinmastodon.org/
-- https://twitter.com/mastodonproject?lang=en
-- https://en.wikipedia.org/wiki/Mastodon_(software)
-
-- https://ericlbarnes.com/2018/09/07/mastodon-first-thoughts/
-- https://slate.com/technology/2018/08/mastodon-what-you-need-to-know-about-the-new-social-network-competing-with-twitter.html
-- https://hackernoon.com/mastodon-is-dead-in-the-water-888c10e8abb1
-- https://www.lifehacker.com.au/2018/08/a-beginners-guide-to-mastodonemem/
-- https://blog.joinmastodon.org/2018/07/cage-the-mastodon/
-- https://joinmastodon.org/
-- https://instances.social/list#lang=en&allowed=&prohibited=nudity_nocw,nudity_all,pornography_nocw,pornography_all,illegalContentLinks,spam&users=
-
-
+* UNESCO: https://unesdoc.unesco.org/ark:/48223/pf0000177849
+* CPA (professional example): https://www.cpaaustralia.com.au/about-us/our-organisation/inclusion-and-diversity-policy
+* Dissability: https://en.wikipedia.org/wiki/Inclusion_(disability_rights)
+* Education: https://en.wikipedia.org/wiki/Inclusion_(education)
+* Business: https://tec.com.au/inclusion-policies-in-the-workplace/
+* Atlassian Playbook: https://www.atlassian.com/team-playbook
+* Health Monitor: https://www.atlassian.com/team-playbook/health-monitor
+* GitLab Playbook: https://about.gitlab.com/handbook/#company
