@@ -1,10 +1,10 @@
 # Free Software Melbourne
-#### 17th of October 2019
+#### 16th of January 2020
 <img src=slides/img/FSM_logo.png width="20%">
 
-## The Future of Free Software
+## Inclusion Policies
 
-### and Free Software  Melbourne
+### and which one is right for us
 
 <hr />
 
@@ -18,3 +18,11 @@ Note:
 Sponsors
 EW space
 coc
+
+===
+
+# What is Free Software?
+* Free as in Freedom (not Free as in Freebee)
+* Run, Read, Modify and Distribute
+* In contrast to proprietary or even Open Source
+

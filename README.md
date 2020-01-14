@@ -2,14 +2,14 @@
 
 
 
-# Presentation and Gnews
+# Presentation
 
-Presentation slides and Gnews for Free Software Melbourne for February 2019
+Presentation slides for Free Software Melbourne January 2019 meetup
 
 
 # To View
 
-[gh-pages](https://free-software-melbourne.github.io/Future-2019-October/)
+[gh-pages](https://free-software-melbourne.github.io/Inclusivity-2020-January/)
 
 
 # To Run
