@@ -15,9 +15,9 @@
 <img src=slides/img/stumbles_small.jpg height="80px">
 
 Note:
-Sponsors
-EW space
-coc
+* Sponsors - EW, Ben and Adam
+* EW space - bathrooms, drinks, wifi
+* CoC
 
 ===
 
@@ -26,3 +26,7 @@ coc
 * Run, Read, Modify and Distribute
 * In contrast to proprietary or even Open Source
 
+Note:
+* Free vs Gratis
+* 4 Freedoms
+* vs proprietary and OS
